@@ -1,5 +1,6 @@
 {
   "name": "siscomatias-web",
+  "homepage": "https://siscomatias.github.io/SiscoMatiasWeb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
