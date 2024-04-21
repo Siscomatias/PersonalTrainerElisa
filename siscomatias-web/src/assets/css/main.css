@@ -226,7 +226,7 @@ input, select, textarea {
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("../images/bg.jpg") bottom left;
+		background: black url("../images/bg.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -886,7 +886,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 750px auto;
+			background-size: cover;
 			width: 2250px;
 		} }
 
@@ -972,8 +972,12 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 300px auto;
+			background-size: cover;
 			width: 900px;
+			-moz-animation: bg 10s linear infinite;
+			-webkit-animation: bg 10s linear infinite;
+			-ms-animation: bg 10s linear infinite;
+			animation: bg 10s linear infinite;
 		}
 
 	/* Header */
@@ -1070,7 +1074,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 412.5px auto;
+			background-size: cover;
 			width: 1237.5px;
 		}
 
