@@ -45,13 +45,13 @@ function App() {
 					<nav>
 						<ul>
 							<li><a href="https://api.whatsapp.com/send?phone=5491134404020" className="icon brands fa-whatsapp"><span className="label">Whatsapp</span></a></li>
-							<li><a href="tel:5491134404020" className="icon solid fa-phone"><span className="label">Llamar</span></a></li>
+							<li><a href="tel:1134404020" className="icon solid fa-phone"><span className="label">Llamar</span></a></li>
 						</ul>
 					</nav>
 				</header>
 					  
 				<footer id="footer">
-					<span className="copyright">&copy; Elisa - Personal trainer. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
+					<span className="copyright">&copy; Elisa - Personal trainer.</span>
 				</footer>
 
 			</div>

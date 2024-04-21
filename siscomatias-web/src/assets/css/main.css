@@ -558,12 +558,14 @@ input, select, textarea {
 			font-weight: 900;
 			letter-spacing: -0.035em;
 			line-height: 1em;
+			-webkit-text-stroke: 0.5px black; 
 		}
 
 		#header p {
-			font-size: 1.25em;
+			font-size: 2em;
 			margin: 0.75em 0 0.25em 0;
-			opacity: 0.75;
+			opacity: 1;
+			
 		}
 
 		#header nav {
@@ -915,10 +917,10 @@ input, select, textarea {
 				}
 
 				100% {
-					-moz-transform: translate3d(-300px,0,0);
-					-webkit-transform: translate3d(-300px,0,0);
-					-ms-transform: translate3d(-300px,0,0);
-					transform: translate3d(-300px,0,0);
+					-moz-transform: translate3d(-3000px,0,0);
+					-webkit-transform: translate3d(-3000px,0,0);
+					-ms-transform: translate3d(-3000px,0,0);
+					transform: translate3d(-3000px,0,0);
 				}
 
 	}
@@ -932,10 +934,10 @@ input, select, textarea {
 			}
 
 			100% {
-				-moz-transform: translate3d(-300px,0,0);
-				-webkit-transform: translate3d(-300px,0,0);
-				-ms-transform: translate3d(-300px,0,0);
-				transform: translate3d(-300px,0,0);
+				-moz-transform: translate3d(-3000px,0,0);
+				-webkit-transform: translate3d(-3000px,0,0);
+				-ms-transform: translate3d(-3000px,0,0);
+				transform: translate3d(-3000px,0,0);
 			}
 			}
 
@@ -948,10 +950,10 @@ input, select, textarea {
 			}
 
 			100% {
-				-moz-transform: translate3d(-300px,0,0);
-				-webkit-transform: translate3d(-300px,0,0);
-				-ms-transform: translate3d(-300px,0,0);
-				transform: translate3d(-300px,0,0);
+				-moz-transform: translate3d(-3000px,0,0);
+				-webkit-transform: translate3d(-3000px,0,0);
+				-ms-transform: translate3d(-3000px,0,0);
+				transform: translate3d(-3000px,0,0);
 			}
 		}
 
@@ -964,10 +966,10 @@ input, select, textarea {
 			}
 
 			100% {
-				-moz-transform: translate3d(-300px,0,0);
-				-webkit-transform: translate3d(-300px,0,0);
-				-ms-transform: translate3d(-300px,0,0);
-				transform: translate3d(-300px,0,0);
+				-moz-transform: translate3d(-3000px,0,0);
+				-webkit-transform: translate3d(-3000px,0,0);
+				-ms-transform: translate3d(-3000px,0,0);
+				transform: translate3d(-3000px,0,0);
 			}
 		}
 
@@ -1071,7 +1073,7 @@ input, select, textarea {
 
 		#bg {
 			background-size: cover;
-			width: 1237.5px;
+			width: 900px;
 		}
 
 	/* Header */
