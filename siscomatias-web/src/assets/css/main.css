@@ -974,10 +974,6 @@ input, select, textarea {
 		#bg {
 			background-size: cover;
 			width: 900px;
-			-moz-animation: bg 10s linear infinite;
-			-webkit-animation: bg 10s linear infinite;
-			-ms-animation: bg 10s linear infinite;
-			animation: bg 10s linear infinite;
 		}
 
 	/* Header */
