@@ -233,6 +233,8 @@ input, select, textarea {
 		opacity: 1;
 		position: fixed;
 		top: 0;
+		background-color: rgba(16, 0, 0,.5);
+		background-blend-mode: multiply;
 	}
 
 	@-moz-keyframes bg {
@@ -301,7 +303,7 @@ input, select, textarea {
 
 	#bg {
 		background-size: 2250px auto;
-		width: 100%;
+		width: 6750px;
 	}
 
 /* Overlay */
