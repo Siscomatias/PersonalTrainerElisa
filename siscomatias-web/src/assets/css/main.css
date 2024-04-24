@@ -233,7 +233,7 @@ input, select, textarea {
 		opacity: 1;
 		position: fixed;
 		top: 0;
-		background-color: rgba(16, 0, 0,.8);
+		background-color: rgba(16, 0, 0,.5);
 		background-blend-mode: multiply;
 	}
 
