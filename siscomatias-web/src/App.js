@@ -39,9 +39,10 @@ function App() {
 			<div id="overlay"></div>
 			<div id="main">
 				<header id="header">
-					<h1>Elisa</h1>
-					<p>Actividad f&iacute;sica especializada en adultos y adultos mayores &nbsp;&bull;&nbsp; Todas las edades</p>
+					<h1>Personal trainer Elisa</h1>
+					<p>Actividad f&iacute;sica especializada en adultos y adultos mayores &nbsp;</p>
 					<p>Desarrollo de la fuerza, resistencia y flexibilidad &nbsp;&bull;&nbsp; Clases personalizadas a domicilio o al aire libre</p>
+					<p>Tel: 1134404020</p>
 					<nav>
 						<ul>
 							<li><a href="https://api.whatsapp.com/send?phone=5491134404020" className="icon brands fa-whatsapp"><span className="label">Whatsapp</span></a></li>

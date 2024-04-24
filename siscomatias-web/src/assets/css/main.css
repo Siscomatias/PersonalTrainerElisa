@@ -233,7 +233,7 @@ input, select, textarea {
 		opacity: 1;
 		position: fixed;
 		top: 0;
-		background-color: rgba(16, 0, 0,.5);
+		background-color: rgba(16, 0, 0,.8);
 		background-blend-mode: multiply;
 	}
 
@@ -559,13 +559,13 @@ input, select, textarea {
 			font-size: 7em;
 			font-weight: 900;
 			letter-spacing: -0.035em;
-			line-height: 0.5em;
+			/*line-height: 0.5em;*/
 			-webkit-text-stroke: 0.5px black; 
 		}
 
 		#header p {
 			font-size: 3em;
-			margin: 2em 0 1em 0;
+			margin: 1.5em 0 0.75em 0;
 			opacity: 1;
 			line-height: 1em;
 			font-weight: 500;
