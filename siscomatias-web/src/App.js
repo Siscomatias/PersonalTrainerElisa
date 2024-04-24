@@ -40,7 +40,7 @@ function App() {
 			<div id="main">
 				<header id="header">
 				  <h1>Personal trainer</h1>
-				  <h1>Elisa</h1>
+				  <h2>Elisa</h2>
 					<p>Actividad f&iacute;sica especializada en adultos y adultos mayores &nbsp;</p>
 					<p>Desarrollo de la fuerza, resistencia y flexibilidad &nbsp;&bull;&nbsp; Clases personalizadas a domicilio o al aire libre</p>
 					<p>Tel: 1134404020</p>
