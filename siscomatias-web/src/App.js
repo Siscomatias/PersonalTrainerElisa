@@ -52,9 +52,9 @@ function App() {
 					</nav>
 				</header>
 					  
-				<footer id="footer">
-					<span className="copyright">&copy; Elisa - Personal trainer.</span>
-				</footer>
+				{/*<footer id="footer">*/}
+				{/*	<span className="copyright">&copy; Elisa - Personal trainer.</span>*/}
+				{/*</footer>*/}
 
 			</div>
 		</div>
